@@ -7,11 +7,12 @@ It provides: <br>
 
 <ul>
 	
-	<li>Charts</li>
+<li>Charts</li>
 
-	<li>graphs</li>
+<li>graphs</li>
 
-	<li>alerts</li>
+<li>alerts</li>
+
 </ul>
 
 
