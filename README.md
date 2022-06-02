@@ -50,3 +50,10 @@ check the status of grafana server
 
 	sudo systemctl status grafana-server
 
+check in which port grafana is running by using this command
+	
+	sudo lsof -i -P
+
+then browse 
+	
+	http:\\localhost:Grafana_port_number
